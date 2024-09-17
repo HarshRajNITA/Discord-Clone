@@ -1,6 +1,6 @@
 
 ## ⭐ Discord Clone ⭐
-
+It is just a UI of Discord. Discord is a communication platform designed for creating communities and facilitating discussions. It started primarily as a tool for gamers to chat while playing, but it has since expanded to serve a variety of groups and interests. It offers text chat, voice chat, and video chat, and users can create or join "servers," which are essentially organized groups or communities centered around specific topics, interests, or activities.
 
 ⭕ **This Site is Fully Responsive**
 <br>
