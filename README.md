@@ -6,7 +6,7 @@ It is just a UI of Discord. Discord is a communication platform designed for cre
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://discordwebapp.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://discord-clone-by-harsh.netlify.app/">**Click Here** 🚀</a>
 
 <br>
 
